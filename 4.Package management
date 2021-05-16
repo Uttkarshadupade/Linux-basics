@@ -20,6 +20,7 @@ history-Displays what has happened in past transactions
 
 
 
+
  2.RPM :- It is the package management system used by Linux Standard Base (LSB) -compliant distributions for low-level handling of packages ,Just like dpkg, it can query,
  install, verify, upgrade, and remove packages, and is more frequently used by Fedora-based distributions, such as RHEL and CentOS.This package consists of an archive of 
  files and meta-data used to install and erase the archive files.RPM is a package container that includes information on what dependencies are needed by the package and build
