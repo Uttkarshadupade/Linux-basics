@@ -1,6 +1,9 @@
 Partitions:-
       Partitions are divisions in the formatting of the hard disk.It allow us to divide are hard drive into isolated section where each section behaves as its own hard
 drive.It is useful if we run multiple operating system.There are lots of powerful tools for creating, removing and otherwise manipulating disk partitionsin Linux.
+Two kinds of major partitions on a Linux system:
+1.data partition: Data in Linux system including the root partition containing all the data to start up and run the system; 
+2.swap partition: extra memory /expansion of the computer's physical memory, 
 Steps to create a partition:
              1. list partitions.
              2. label a partition.
